@@ -7,6 +7,7 @@ Dwm's status bar is painful. This is my configuration of dwmblocks to save you p
 * git (to clone the repo)
 * GNU CoreUtils (for commands like date)
 * awk (for cutting out useless pieces of the command)
+* libxft-bgra (for unicode glyphs)
 # Installation
 ```
 git clone https://github.com/zowws/dwmblocks-zowws.git
