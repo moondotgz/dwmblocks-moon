@@ -1,4 +1,4 @@
-# dwmblocks-zowws
+# dwmblocks-moon
 Dwm's status bar is painful. This is my configuration of dwmblocks to save you pain.
 # Patches
 * [statuscmd (this is literally the only patch in existence)](https://gist.github.com/IGeraGera/e4a5583b91b3eec2e81fdceb44dea717)
