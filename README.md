@@ -10,7 +10,7 @@ Dwm's status bar is painful. This is my configuration of dwmblocks to save you p
 * libxft-bgra (for unicode glyphs)
 # Installation
 ```
-git clone https://github.com/zowws/dwmblocks-zowws.git
-cd dwmblocks-zowws/dwmblocks
+git clone https://github.com/moondotgz/dwmblocks-moon.git
+cd dwmblocks-moon/dwmblocks
 sudo make install
 ```
